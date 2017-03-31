@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<style type="text/css">
+			* {
+				margin: 0;
+				padding: 0;
+				box-sizing: border-box;
+			}
+
+			#div-outline, #div-shadow {
+				margin: 24px auto;
+				width: 48px;
+				height: 48px;
+				border: 1px solid red;
+				cursor: pointer;
+				border-radius: 50%;
+			}
+
+			#div-outline:hover {
+				outline: 2px solid #069;
+			}
+
+			#div-shadow:hover{
+				border-color: transparent;
+				box-shadow: 0 0 0 2px #069;
+			}
+
+			#div-ten {
+				margin: 0 auto;
+				width: 48px;
+				height: 48px;
+				background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+				outline: 16px dotted #fff;
+				outline-offset: -16px;
+			}
+		</style>
+	</head>
+	<body>
+		<div id="div-outline"></div>
+		<div id="div-shadow"></div>
+		<div id="div-ten"></div>
+	</body>
+</html>
