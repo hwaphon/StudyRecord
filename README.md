@@ -18,14 +18,15 @@
  
  还可以使用 `outline` 画出一个一个 `+` 的符号，用以下代码即可：
  
- 		div {
-			margin: 0 auto;
-			width: 48px;
-			height: 48px;
-			background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
-			outline: 16px dotted #fff;
-			outline-offset: -16px;
-		}
+     div {
+	    
+		margin: 0 auto;
+		width: 48px;
+		height: 48px;
+		background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+		outline: 16px dotted #fff;
+		outline-offset: -16px;
+	 }
   
   只需要将 `outline-width` 设置为元素宽高的 `1/3`，`outline-offset` 设置为宽高的 `-1/3` ，`outline-style` 设置为 `dotted` 就可以完成这个效果。
 
@@ -36,13 +37,15 @@
 完成浮动与两侧皆自适应的流体布局步骤如下
 
 
-    	<div id="hwa-container">
-             <img src="2.jpg" id="hwa-img">
+    <div id="hwa-container">
+		
+            <img src="2.jpg" id="hwa-img">
 
-             <div id="hwa-content">
+            <div id="hwa-content">
                 <p>content...</p>
                 <img src="2.jpg">
-             </div>
-        </div>
+            </div>
+			 
+    </div>
 	
 只需要给 `#hwa-img` 设置 `float`，给 `#hwa-content` 设置 `display: table-cell`（主要是为了触发 BFC，清楚浮动影响）。
