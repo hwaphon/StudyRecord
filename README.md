@@ -51,3 +51,6 @@
 右侧固定左侧自适应布局： 给 `#hwa-content` 设置 `width: 100%` 和 `float: left` ，然后给 `#hwa-container` 设置 `padding-right: 48px` 这个 `48px` 的值就是 `#hwa-img` 的宽度，因为我们要用这个位置放置 `#hwa-img`，最后一步就是给 `#hwa-img` 设置 `margin-right: -48px`,让其能够填充到 `#hwa-container` 的右侧。
 
 浮动与单侧尺寸固定的流体布局：为 `#hwa-img` 设置 `float:left`, 然后将 `#hwa-content` 的 `margin-left` 设置一个大于 `#hwa-img` 宽度的值即可。
+
+[CSS布局奇淫巧计之-强大的负边距](http://www.cnblogs.com/2050/archive/2012/08/13/2636467.html#2457812)
+
