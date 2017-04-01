@@ -52,5 +52,8 @@
 
 浮动与单侧尺寸固定的流体布局：为 `#hwa-img` 设置 `float:left`, 然后将 `#hwa-content` 的 `margin-left` 设置一个大于 `#hwa-img` 宽度的值即可。
 
-！！重点推荐 - [CSS布局奇淫巧计之-强大的负边距](http://www.cnblogs.com/2050/archive/2012/08/13/2636467.html#2457812)
+！！重点推荐 ：
 
+[CSS布局奇淫巧计之-强大的负边距](http://www.cnblogs.com/2050/archive/2012/08/13/2636467.html#2457812)
+
+[负值之美：负margin在页面布局中的应用](http://www.cnblogs.com/jscode/archive/2012/08/28/2660078.html)
