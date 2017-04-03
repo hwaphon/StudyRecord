@@ -67,17 +67,17 @@
 
 慕课网- [图片阴影](http://www.imooc.com/learn/240)
 
-父级设置了relative，子元素设置了absolute，且均设置了z-index属性值的时候，父级对子元素的层级有限制（即不论子元素z-index值大小，层级不“正常”显示）。如果将父级的层级设置为：z-index：auto，或者父级不设置z-index属性，则子元素的z-index不受父级限制，即正常显示。）
+父级设置了 `relative`，子元素设置了 `absolute`，且均设置了 `z-index` 属性值的时候，父级对子元素的层级有限制（即不论子元素 `z-index` 值大小，层级不“正常”显示）。如果将父级的层级设置为：`z-index：auto` ，或者父级不设置 `z-index` 属性，则子元素的 `z-index` 不受父级限制，即正常显示。）
 
 曲线阴影的原理如下：将元素的 `after` 和 `before` 设置为带圆角的矩形（宽度略小一点），将其 `z-index` 设置为处于元素之下，让其阴影露出来即可。
 
-翘边阴影的原理如下： 将元素的 `after` 和 `before` 设置为对称的平行四边形（可以通过 skew 和 rotate 获得），为它们设置好阴影并处于元素之下即可。
+翘边阴影的原理如下： 将元素的 `after` 和 `before` 设置为对称的平行四边形（可以通过 `skew` 和 `rotate` 获得），为它们设置好阴影并处于元素之下即可。
 
 ### 20170403
 
 慕课网 - [CSS3实现网页平滑过渡效果](http://www.imooc.com/learn/252)
 
-虽然语义性较差，但是可以利用 input[type="radio"] 模仿点击切换功能。
+虽然语义性较差，但是可以利用 `input[type="radio"]` 模仿点击切换功能。
 
 博客园- [RGBA与Opacity区别小解](http://www.cnblogs.com/myvin/p/4621417.html)
 
