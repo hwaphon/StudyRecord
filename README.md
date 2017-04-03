@@ -72,3 +72,13 @@
 曲线阴影的原理如下：将元素的 `after` 和 `before` 设置为带圆角的矩形（宽度略小一点），将其 `z-index` 设置为处于元素之下，让其阴影露出来即可。
 
 翘边阴影的原理如下： 将元素的 `after` 和 `before` 设置为对称的平行四边形（可以通过 skew 和 rotate 获得），为它们设置好阴影并处于元素之下即可。
+
+### 20170403
+
+慕课网 - [CSS3实现网页平滑过渡效果](http://www.imooc.com/learn/252)
+
+虽然语义性较差，但是可以利用 input[type="radio"] 模仿点击切换功能。
+
+博客园- [RGBA与Opacity区别小解](http://www.cnblogs.com/myvin/p/4621417.html)
+
+概括的来说，`rgba` 和 `opacity` 的区别如下： `opacity` 会继承父元素的 `opacity` 属性，而 `RGBA` 设置的元素的后代元素不会继承不透明属性。
