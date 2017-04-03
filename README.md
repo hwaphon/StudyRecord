@@ -82,3 +82,5 @@
 博客园- [RGBA与Opacity区别小解](http://www.cnblogs.com/myvin/p/4621417.html)
 
 概括的来说，`rgba` 和 `opacity` 的区别如下： `opacity` 会继承父元素的 `opacity` 属性，而 `RGBA` 设置的元素的后代元素不会继承不透明属性。
+
+文章 - [css清除浮动float的三种方法总结，为什么清浮动？浮动会有那些影响？](https://my.oschina.net/leipeng/blog/221125)
