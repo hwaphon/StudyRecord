@@ -86,3 +86,7 @@
 文章 - [css清除浮动float的三种方法总结，为什么清浮动？浮动会有那些影响？](https://my.oschina.net/leipeng/blog/221125)
 
 文章 - [浅谈 CSS 清除浮动的 6 种方法](https://segmentfault.com/a/1190000003937063)
+
+文章 - [float, relative, absoulte](http://www.cnblogs.com/fu277/archive/2012/03/13/2393519.html)
+
+知乎 - [在 CSS 中，用 float 和 position 的区别是什么？](https://www.zhihu.com/question/19588854)
