@@ -92,3 +92,9 @@
 知乎 - [在 CSS 中，用 float 和 position 的区别是什么？](https://www.zhihu.com/question/19588854)
 
 文章 - [标准W3C盒子模型和IE盒子模型](http://www.cnblogs.com/ljb161108/p/6044639.html)
+
+### 20170404
+
+文章 - [CSS3 动画属性 animation 的基本用法](http://www.tangbc.com/blog/#frontends/215)
+
+文章 - [如何理解animation-fill-mode及其使用？](https://segmentfault.com/q/1010000003867335)
