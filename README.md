@@ -114,3 +114,5 @@
 文章 - [CSS Grid VS Flexbox: A Practical Comparison](http://tutorialzine.com/2017/03/css-grid-vs-flexbox/)
 
 文章 - [Which tool to use? Flexbox or Grid?](http://jeffbridgforth.com/which-tool-to-use-flexbox-or-grid/comment-page-1/#comment-13561)
+
+文章 - [Quick Tip: The Easiest Way To Show Browser Notifications](http://tutorialzine.com/2017/01/the-easiest-way-to-show-browser-notifications/)
