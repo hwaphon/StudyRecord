@@ -98,3 +98,13 @@
 文章 - [CSS3 动画属性 animation 的基本用法](http://www.tangbc.com/blog/#frontends/215)
 
 文章 - [如何理解animation-fill-mode及其使用？](https://segmentfault.com/q/1010000003867335)
+
+### 20170405
+
+文章 - [CSS3 Filter的十种特效](http://www.w3cplus.com/css3/ten-effects-with-css3-filter)
+
+文章 - [ubuntu12.04装配IE8（playOnLinux)](http://www.myexception.cn/linux-unix/1441983.html)
+
+文章 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+文章 - [Quick Tip: Get to Know the CSS Object Fit and Position Properties](http://tutorialzine.com/2016/04/quick-tip-get-to-know-css-object-fit-position/)
