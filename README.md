@@ -118,3 +118,7 @@
 文章 - [Quick Tip: The Easiest Way To Show Browser Notifications](http://tutorialzine.com/2017/01/the-easiest-way-to-show-browser-notifications/)
 
 网站- [一键生成雪碧图](http://csssprites.com/)
+
+### 20170406
+
+文章 - [学习Javascript闭包（Closure)](http://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html)
