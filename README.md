@@ -122,3 +122,13 @@
 ### 20170406
 
 文章 - [学习Javascript闭包（Closure)](http://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html)
+
+### 20170407
+
+当文字颜色深于背景颜色时，可以为文字右下方添加亮色阴影，代码如下：
+    
+    text-shadow: 1px 1px 0 rgba(255, 255, 255, .7);
+    
+当文字颜色浅于背景颜色，则可为文字左上方添加深色阴影来形成内浮雕效果，代码如下：
+
+    text-shadow: -1px -1px 0 rgba(0, 0, 0, .7);
