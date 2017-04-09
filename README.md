@@ -138,3 +138,8 @@
     
 `margin` 负值边距会影响文档流和浮动流的计算，不过这种计算是从左到右，从上到下的，也就是说对于一个元素而言，如果为其设置 `margin-right` 和 `margin-bottom` 为负值 x，则文档流和浮动流会将元素的大小视为 `width + x`，而如果将其设置为 `margin-left` 和 `margin-top` 则不会这样计算，它会将元素往上或者往左拉。
 
+### 20170409
+
+如果 `input` 标签没有被放在 `form` 标签中，那么你设置的 `required` 属性是无效的。
+
+文章 - [如何动态修改 placeholder 的颜色？](https://segmentfault.com/q/1010000004216231)
