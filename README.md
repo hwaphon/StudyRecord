@@ -165,3 +165,10 @@
 文章 - [纯CSS实现瀑布流布局](https://www.w3cplus.com/css/pure-css-create-masonry-layout.html)
 
 文章 - [《你不知道的 CSS》之等比例缩放的盒子](https://www.talkingcoder.com/article/6408123439394783254)
+
+### 20170418
+
+文章 - [requestAnimationFrame
+The secret to silky smooth JavaScript animation!](http://creativejs.com/resources/requestanimationframe/)
+
+文章 - [破解前端面试（80% 应聘者不及格系列）：从 DOM 说起](https://zhuanlan.zhihu.com/p/26420034)
