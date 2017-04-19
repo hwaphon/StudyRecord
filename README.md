@@ -172,3 +172,7 @@
 The secret to silky smooth JavaScript animation!](http://creativejs.com/resources/requestanimationframe/)
 
 文章 - [破解前端面试（80% 应聘者不及格系列）：从 DOM 说起](https://zhuanlan.zhihu.com/p/26420034)
+
+### 20170419
+
+文章 - [开始使用Web Workers](http://blog.jobbole.com/30445/)
