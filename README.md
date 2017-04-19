@@ -176,3 +176,7 @@ The secret to silky smooth JavaScript animation!](http://creativejs.com/resource
 ### 20170419
 
 文章 - [开始使用Web Workers](http://blog.jobbole.com/30445/)
+
+文章 - [css3属性column知多少](http://www.cnblogs.com/xinjie-just/p/5953386.html)
+
+文章 - [IndexedDB简介与入门](https://segmentfault.com/a/1190000006924681?utm_source=tuicool&utm_medium=referral)
