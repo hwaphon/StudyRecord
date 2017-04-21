@@ -180,3 +180,5 @@ The secret to silky smooth JavaScript animation!](http://creativejs.com/resource
 文章 - [css3属性column知多少](http://www.cnblogs.com/xinjie-just/p/5953386.html)
 
 文章 - [IndexedDB简介与入门](https://segmentfault.com/a/1190000006924681?utm_source=tuicool&utm_medium=referral)
+
+文章 - [CSS3 filter:drop-shadow滤镜与box-shadow区别应用](http://www.zhangxinxu.com/wordpress/2016/05/css3-filter-drop-shadow-vs-box-shadow/)
