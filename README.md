@@ -188,3 +188,9 @@ The secret to silky smooth JavaScript animation!](http://creativejs.com/resource
 ### 20170427
 
 [webpack: Cannot find module 'webpack/lib/node/NodeTemplatePlugin](http://www.cnblogs.com/meij/p/5208214.html)
+
+---
+
+### 20170502
+
+[bodyParser中间件的研究](http://www.tuicool.com/articles/beEJ32a)
