@@ -200,3 +200,8 @@ The secret to silky smooth JavaScript animation!](http://creativejs.com/resource
 ### 20170504
 
 [node-http](http://i5ting.github.io/node-http/#1)
+
+### 20170505
+
+[NodeJS包教不包会](https://www.shiyanlou.com/courses/493)
+[Git 教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/)
