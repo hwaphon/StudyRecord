@@ -209,3 +209,11 @@ The secret to silky smooth JavaScript animation!](http://creativejs.com/resource
 ### 20170506
 
 [HTML's New Template Tag](https://www.html5rocks.com/zh/tutorials/webcomponents/template/)
+
+### 20170514
+
+[Understand JavaScript Closures With Ease](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
+
+[JavaScript Variable Scope and Hoisting Explained](http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/)
+
+[JavaScript Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/)
