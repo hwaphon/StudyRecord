@@ -223,3 +223,11 @@ The secret to silky smooth JavaScript animation!](http://creativejs.com/resource
 [【转载】CSS书写模式](https://www.w3cplus.com/css/css-writing-modes.html)
 
 [理解Flexbox：你需要知道的一切](https://www.w3cplus.com/css3/understanding-flexbox-everything-you-need-to-know.html)
+
+[text-stroke实现文本描边效果](https://www.w3cplus.com/css3/text-stroke.html)
+
+### 20170517
+
+[CSS进阶：提高你前端水平的 4 个技巧](http://mp.weixin.qq.com/s/UtQXVjJIJlwff6Y0B5hS2g)
+
+[What Makes For a Semantic Class Name?](https://css-tricks.com/semantic-class-names/)
