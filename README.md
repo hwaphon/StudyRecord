@@ -231,3 +231,11 @@ The secret to silky smooth JavaScript animation!](http://creativejs.com/resource
 [CSS进阶：提高你前端水平的 4 个技巧](http://mp.weixin.qq.com/s/UtQXVjJIJlwff6Y0B5hS2g)
 
 [What Makes For a Semantic Class Name?](https://css-tricks.com/semantic-class-names/)
+
+### 20170524
+
+[Sass Guide](http://sass-lang.com/guide)
+
+[Building a Horizontal Timeline With CSS and JavaScript](https://webdesign.tutsplus.com/tutorials/building-a-horizontal-timeline-with-css-and-javascript--cms-28378)
+
+[Building a Vertical Timeline With CSS and a Touch of JavaScript](https://webdesign.tutsplus.com/tutorials/building-a-vertical-timeline-with-css-and-a-touch-of-javascript--cms-26528)
