@@ -244,3 +244,6 @@ The secret to silky smooth JavaScript animation!](http://creativejs.com/resource
 
 ### 20170605
 [精通 gulp 常用插件](https://juejin.im/entry/58a3c17ab123db00545e42de)
+
+### 20170817
+[JavaScript Promise 迷你书](http://liubin.org/promises-book/)
