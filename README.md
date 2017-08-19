@@ -9,17 +9,17 @@
 
 
  教学视频- [CSS 之深入 border](http://www.imooc.com/learn/755)
- 
+
  教学视频- [重拾CSS的乐趣](http://www.imooc.com/learn/588)
- 
+
  利用 `outline` 可以给一个元素设置 `hover` 样式，这样和使用 `border` 有什么不同之处呢? `outline` 不占据布局空间，也就是说它不影响元素的大小，如果是这样的话，那可是可以解决很多问题啊，比如一个图片默认没有边框，hover的时候有一个1px的边框，那么如果不做处理盒子会抖动一下。
- 
+
  不过 `outline` 没有圆角的效果，`Firefox` 是个例外，它有一个 `-moz-outline-radius` 属性，其实 `outline` 和 `border` 用法是很像的。为了在不影响元素大小的情况下，给一个元素添加一个外边框，而且这个元素还拥有圆角，就不能再使用 `outline` 了，可以使用 `box-shadow`。`box-shadow` 经常使用的参数是前五个，水平偏移，垂直偏移，模糊半径，扩展大小，颜色。其实这个拓展大小就好像是给 `box-shadow` 加了一个 `padding`，利用 `box-shadow: 0 0 0 5px red` 就可以在不改变元素大小的情况下添加一个宽度为 `5px`，颜色为红色的边框。
- 
+
  还可以使用 `outline` 画出一个一个 `+` 的符号，用以下代码即可：
- 
+
      div {
-	    
+
 		margin: 0 auto;
 		width: 48px;
 		height: 48px;
@@ -27,7 +27,7 @@
 		outline: 16px dotted #fff;
 		outline-offset: -16px;
 	 }
-  
+
   只需要将 `outline-width` 设置为元素宽高的 `1/3`，`outline-offset` 设置为宽高的 `-1/3` ，`outline-style` 设置为 `dotted` 就可以完成这个效果。
 
 ### 20170401
@@ -36,16 +36,16 @@
 
 
     <div id="hwa-container">
-		
+
             <img src="2.jpg" id="hwa-img">
 
             <div id="hwa-content">
                 <p>content...</p>
                 <img src="2.jpg">
             </div>
-			 
+
     </div>
-	
+
 浮动两侧自适应布局：只需要给 `#hwa-img` 设置 `float`，给 `#hwa-content` 设置 `display: table-cell`（主要是为了触发 BFC，清楚浮动影响）。
 
 右侧固定左侧自适应布局： 给 `#hwa-content` 设置 `width: 100%` 和 `float: left` ，然后给 `#hwa-container` 设置 `padding-right: 48px` 这个 `48px` 的值就是 `#hwa-img` 的宽度，因为我们要用这个位置放置 `#hwa-img`，最后一步就是给 `#hwa-img` 设置 `margin-right: -48px`,让其能够填充到 `#hwa-container` 的右侧。
@@ -126,16 +126,16 @@
 ### 20170407
 
 当文字颜色深于背景颜色时，可以为文字右下方添加亮色阴影，代码如下：
-    
+
     text-shadow: 1px 1px 0 rgba(255, 255, 255, .7);
-    
+
 当文字颜色浅于背景颜色，则可为文字左上方添加深色阴影来形成内浮雕效果，代码如下：
 
     text-shadow: -1px -1px 0 rgba(0, 0, 0, .7);
-    
-    
+
+
 ### 20170408
-    
+
 `margin` 负值边距会影响文档流和浮动流的计算，不过这种计算是从左到右，从上到下的，也就是说对于一个元素而言，如果为其设置 `margin-right` 和 `margin-bottom` 为负值 x，则文档流和浮动流会将元素的大小视为 `width + x`，而如果将其设置为 `margin-left` 和 `margin-top` 则不会这样计算，它会将元素往上或者往左拉。
 
 ### 20170409
@@ -247,3 +247,6 @@ The secret to silky smooth JavaScript animation!](http://creativejs.com/resource
 
 ### 20170817
 [JavaScript Promise 迷你书](http://liubin.org/promises-book/)
+
+### 20170819
+[Sass Basics](http://sass-lang.com/guide)
