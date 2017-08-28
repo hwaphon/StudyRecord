@@ -250,3 +250,6 @@ The secret to silky smooth JavaScript animation!](http://creativejs.com/resource
 
 ### 20170819
 [Sass Basics](http://sass-lang.com/guide)
+
+### 20170825
+[你所不知道的 CSS 动画技巧与细节](http://www.cnblogs.com/coco1s/p/7443263.html)
