@@ -253,3 +253,8 @@ The secret to silky smooth JavaScript animation!](http://creativejs.com/resource
 
 ### 20170825
 [你所不知道的 CSS 动画技巧与细节](http://www.cnblogs.com/coco1s/p/7443263.html)
+
+### 20170908
+
+[CSS Reference](http://cssreference.io/)
+[HTML Reference](http://htmlreference.io/)
