@@ -250,3 +250,6 @@ The secret to silky smooth JavaScript animation!](http://creativejs.com/resource
 
 ### 20170819
 [Sass Basics](http://sass-lang.com/guide)
+
+### 20170910
+[A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
