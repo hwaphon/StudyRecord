@@ -95,7 +95,7 @@
 
 ### 20170404
 
-文章 - [CSS3 动画属性 animation 的基本用法](http://www.tangbc.com/blog/#frontends/215)
+文章 - [CSS3 动画属性 animation 的基本用法](https://www.tangbc.com/article/basic-usage-of-css3-animation)
 
 文章 - [如何理解animation-fill-mode及其使用？](https://segmentfault.com/q/1010000003867335)
 
@@ -251,5 +251,17 @@ The secret to silky smooth JavaScript animation!](http://creativejs.com/resource
 ### 20170819
 [Sass Basics](http://sass-lang.com/guide)
 
+### 20170825
+
+[你所不知道的 CSS 动画技巧与细节](http://www.cnblogs.com/coco1s/p/7443263.html)
+
+### 20170908
+
+[CSS Reference](http://cssreference.io/)
+
+[HTML Reference](http://htmlreference.io/)
+
 ### 20170910
+
 [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
