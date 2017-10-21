@@ -272,3 +272,8 @@ The secret to silky smooth JavaScript animation!](http://creativejs.com/resource
 ### 20170921
 
 [你真的了解word-wrap和word-break的区别吗？](http://www.cnblogs.com/2050/archive/2012/08/10/2632256.html)
+
+### 20171021
+
+[加速nginx: 开启gzip和缓存](https://www.darrenfang.com/2015/01/setting-up-http-cache-and-gzip-with-nginx/)
+[nginx proxy_cache 缓存配置](http://blog.csdn.net/dengjiexian123/article/details/53386586)
