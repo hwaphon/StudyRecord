@@ -277,3 +277,7 @@ The secret to silky smooth JavaScript animation!](http://creativejs.com/resource
 
 [加速nginx: 开启gzip和缓存](https://www.darrenfang.com/2015/01/setting-up-http-cache-and-gzip-with-nginx/)
 [nginx proxy_cache 缓存配置](http://blog.csdn.net/dengjiexian123/article/details/53386586)
+
+### 20171022
+
+[X-Forwarded-For 和 X-Real-IP 的区别？](http://www.cnblogs.com/mypath/articles/5239687.html)
