@@ -281,3 +281,9 @@ The secret to silky smooth JavaScript animation!](http://creativejs.com/resource
 ### 20171022
 
 [X-Forwarded-For 和 X-Real-IP 的区别？](http://www.cnblogs.com/mypath/articles/5239687.html)
+
+### 20171109
+
+[Learn Vuex by Building a Notes App](https://coligo.io/learn-vuex-by-building-notes-app/)
+
+[Vue项目上传github并预览](http://www.imooc.com/article/19464?block_id=tuijian_wz)
