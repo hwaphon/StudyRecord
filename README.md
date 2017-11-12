@@ -287,3 +287,9 @@ The secret to silky smooth JavaScript animation!](http://creativejs.com/resource
 [Learn Vuex by Building a Notes App](https://coligo.io/learn-vuex-by-building-notes-app/)
 
 [Vue项目上传github并预览](http://www.imooc.com/article/19464?block_id=tuijian_wz)
+
+### 20171112
+
+[React创建组件的三种方式及其区别](https://www.cnblogs.com/wonyun/p/5930333.html)
+
+[React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html)
